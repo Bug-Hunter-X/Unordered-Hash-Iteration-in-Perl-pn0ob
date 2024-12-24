@@ -1,0 +1,1 @@
+my %hash = (a => 1, b => 2); while (my ($key, $value) = each %hash) { print "$key => $value\n"; }
